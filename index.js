@@ -1,1 +1,3 @@
-function save()‰
+function thisExample(){
+    return "Hello"
+}
